@@ -1,3 +1,5 @@
+#this was created in my binary brain
+
 import curses
 from curses import KEY_RIGHT, KEY_LEFT, KEY_UP, KEY_DOWN
 from random import randint
